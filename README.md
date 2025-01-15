@@ -25,3 +25,5 @@ print("Hello World")
 '''
 
 Przykładowy fragment kodu w języku Python 'print("Hello world")'
+
+![logo/logo.png](logo.png)
