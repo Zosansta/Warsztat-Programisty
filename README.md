@@ -27,3 +27,8 @@ print("Hello World")
 Przykładowy fragment kodu w języku Python 'print("Hello world")'
 
 ![logo/logo.png](logo.png)
+
+
+|Nagłówek tabeli|Drugi nagłówek|
+|---------------|:------------:|
+|Wiersz 1       |Wiersz 2      |
